@@ -1,2 +1,7 @@
 Hello This is prashant.
+<<<<<<< Updated upstream
 This is second change in the file.
+=======
+This is second change in the file.Trying for removing a cache.
+another commit.
+>>>>>>> Stashed changes
